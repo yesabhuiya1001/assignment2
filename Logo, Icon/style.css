@@ -1,0 +1,61 @@
+body {
+  font: 700;
+}
+header {
+  background-color: rgb(253, 243, 224);
+}
+section {
+  margin-top: 20px;
+  width: 80%;
+}
+p {
+  font-size: 10px;
+}
+.top-part {
+  margin-top: 0px;
+}
+#top {
+  margin-top: 0px;
+  height: 450px;
+  width: 450px;
+}
+.categories {
+  padding: 20px;
+}
+.btn {
+  background-color: yellowgreen;
+  color: white;
+}
+.font-highlight {
+  color: orange;
+}
+.top-left {
+  margin-top: 40px;
+}
+.card-footer {
+  background-color: white;
+  display: flex;
+}
+.card-img-top {
+  border: none;
+  border-radius: 5px;
+  background-color: whitesmoke;
+}
+.card {
+  background-color: azure;
+  border-radius: 5px;
+  width: 300px;
+  height: 200px;
+}
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+}
+.card-footer h3 {
+  color: orange;
+}
+.footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-start;
+}
